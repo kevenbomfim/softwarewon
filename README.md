@@ -46,19 +46,6 @@ Nessa versão
 
 ## Desenvolvedores(as)
 
-[<img src="" width=115 > <br> <sub> Gotardo Aurélio </sub>]() |
-| :---: |
-
-[<img src="" width=115 > <br> <sub> Kalleby Rodrigues </sub>]() |
-| :---: |
-
-[<img src="https://avatars.githubusercontent.com/u/72482960?v=4" width=115 > <br> <sub> Keven Bomfim </sub>](https://github.com/kevenbomfim/) |
-| :---: |
-
-[<img src="" width=115 > <br> <sub> Eduarda Resende </sub>]() |
-| :---: |
-
-[<img src="" width=115 > <br> <sub> Perla Oliveira </sub>]() |
-| :---: | 
+[<img src="" width=115 > <br> <sub> Gotardo Aurélio </sub>]() || :---: |[<img src="" width=115 > <br> <sub> Kalleby Rodrigues </sub>]() || :---: |[<img src="https://avatars.githubusercontent.com/u/72482960?v=4" width=115 > <br> <sub> Keven Bomfim </sub>](https://github.com/kevenbomfim/) || :---: |[<img src="" width=115 > <br> <sub> Eduarda Resende </sub>]() || :---: |[<img src="" width=115 > <br> <sub> Perla Oliveira </sub>]() || :---: | 
 
 # WON - WORK ORDER NOW - 2021
