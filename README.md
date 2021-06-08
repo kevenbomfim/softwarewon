@@ -48,5 +48,9 @@ Nessa versão
 
 [<img src="https://avatars.githubusercontent.com/u/72482960?v=4" width=115 > <br> <sub> Keven Bomfim </sub>](https://github.com/kevenbomfim/) |
 | :---: |
+[<img src="https://avatars.githubusercontent.com/u/72482960?v=4" width=115 > <br> <sub> Keven Bomfim </sub>](https://github.com/kevenbomfim/) |
+| :---: |
+[<img src="https://avatars.githubusercontent.com/u/72482960?v=4" width=115 > <br> <sub> Keven Bomfim </sub>](https://github.com/kevenbomfim/) |
+| :---: |
 
 # WON - WORK ORDER NOW - 2021
