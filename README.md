@@ -32,6 +32,10 @@ Atualmente para a utilização do _Software WON_ é nescessário possui em sua m
 
 * **[Netbeans IDE 8.2](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)** O NetBeans IDE é um ambiente de desenvolvimento integrado gratuito e de código aberto para desenvolvedores de software nas linguagens Java, JavaScript, HTML5, PHP, C/C++, Groovy, Ruby, entre outras. O IDE é executado em muitas plataformas, como Windows, Linux, Solaris e MacOS. [Wikipédia](https://pt.wikipedia.org/wiki/NetBeans)
 
+Além desses Softwares também são nescessários algumas bibliotecas de apoio.
+
+* **[MySQL Connector Java:]()** MySQL Connector / ODBC (às vezes chamado apenas de Connector / ODBC ou MyODBC) é um driver para se conectar a um servidor de banco de dados MySQL por meio da interface de programa de aplicativo (API) Open Database Connectivity (ODBC), que é o meio padrão de conexão com qualquer banco de dados. [TechTarget | SearchOracle](https://searchoracle.techtarget.com/definition/MySQL-Connector-ODBC-Connector-ODBC-or-MyODBC) 
+
 ## Exemplos de uso
 
 ## Histórico de Lançamentos
