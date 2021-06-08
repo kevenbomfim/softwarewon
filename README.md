@@ -58,7 +58,7 @@ Nessa versão
 [<img src="" width=115 > <br> <sub> Perla Oliveira </sub>]() |
 | :---: | -->
 
-[<img src="" width=115 > <br> <sub> Gotardo Aurélio </sub>]() | [<img src="" width=115 > <br> <sub> Kalleby Rodrigues </sub>]() | [<img src="https://avatars.githubusercontent.com/u/72482960?v=4" width=115 > <br> <sub> Keven Bomfim </sub>](https://github.com/kevenbomfim/) | [<img src="https://www.instagram.com/p/B5P8kcbl0kUmpMl1MCV5CiBPrOG6JF2Zxk1a480/" width=115 > <br> <sub> Eduarda Resende </sub>](https://github.com/eduardaresend) | [<img src="" width=115 > <br> <sub> Perla Oliveira </sub>](https://github.com/Perlapjlo)
+[<img src="" width=115 > <br> <sub> Gotardo Aurélio </sub>]() | [<img src="https://avatars.githubusercontent.com/u/80918685?v=4" width=115 > <br> <sub> Kalleby Rodrigues </sub>](https://github.com/Kalleby-Rodrigues) | [<img src="https://avatars.githubusercontent.com/u/72482960?v=4" width=115 > <br> <sub> Keven Bomfim </sub>](https://github.com/kevenbomfim/) | [<img src="https://avatars.githubusercontent.com/u/75273692?v=4" width=115 > <br> <sub> Eduarda Resende </sub>](https://github.com/eduardaresend) | [<img src="https://avatars.githubusercontent.com/u/81035219?v=4" width=115 > <br> <sub> Perla Oliveira </sub>](https://github.com/Perlapjlo)
 :--------- | :------: | -------: | -------: | -------:
 
 # WON - WORK ORDER NOW - 2021
