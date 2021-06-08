@@ -26,8 +26,11 @@ Pasta contendo os arquivos nescessários para o Banco de dados
 
 Atualmente para a utilização do _Software WON_ é nescessário possui em sua máquina os seguintes softwares:
 
-* **[XAMPP Apache + MariaDB + PHP + Perl:](https://www.apachefriends.org/pt_br/index.html)** XAMPP é um pacote com os principais servidores de código aberto do mercado, incluindo FTP, banco de dados MySQL e Apache com suporte as linguagens PHP e Perl. [Wikipedia](https://pt.wikipedia.org/wiki/XAMPP) 
-* ****
+* **[XAMPP Apache + MariaDB + PHP + Perl:](https://www.apachefriends.org/pt_br/index.html)** XAMPP é um pacote com os principais servidores de código aberto do mercado, incluindo FTP, banco de dados MySQL e Apache com suporte as linguagens PHP e Perl. [Wikipedia](https://pt.wikipedia.org/wiki/XAMPP)
+
+* **[MySQL Workbench:](https://dev.mysql.com/downloads/workbench/)** O MySQL Workbench é uma ferramenta visual de design de banco de dados que integra desenvolvimento, administração, design, criação e manutenção de SQL em um único ambiente de desenvolvimento integrado para o sistema de banco de dados MySQL. [Wikipedia](https://en.wikipedia.org/wiki/MySQL_Workbench)
+
+* **[Netbeans IDE 8.2](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)** O NetBeans IDE é um ambiente de desenvolvimento integrado gratuito e de código aberto para desenvolvedores de software nas linguagens Java, JavaScript, HTML5, PHP, C/C++, Groovy, Ruby, entre outras. O IDE é executado em muitas plataformas, como Windows, Linux, Solaris e MacOS. [Wikipédia](https://pt.wikipedia.org/wiki/NetBeans)
 
 ## Exemplos de uso
 
