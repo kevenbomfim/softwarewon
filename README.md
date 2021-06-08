@@ -38,8 +38,15 @@ Além desses Softwares também são nescessários algumas bibliotecas de apoio.
 
 ## Exemplos de uso
 
+Nessa versão 
+
 ## Histórico de Lançamentos
 
 ## Meta
+
+## Desenvolvedores(as)
+
+[<img src="" width=115 > <br> <sub> Keven Bomfim </sub>]() |
+| :---: | 
 
 # WON - WORK ORDER NOW - 2021
