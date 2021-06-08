@@ -26,7 +26,7 @@ Pasta contendo os arquivos nescessários para o Banco de dados
 
 Atualmente para a utilização do _Software WON_ é nescessário possui em sua máquina os seguintes softwares:
 
-* **[XAMPP Apache + MariaDB + PHP + Perl:(https://www.apachefriends.org/pt_br/index.html)]** XAMPP é um pacote com os principais servidores de código aberto do mercado, incluindo FTP, banco de dados MySQL e Apache com suporte as linguagens PHP e Perl. [Wikipedia(https://pt.wikipedia.org/wiki/XAMPP)]
+* **[XAMPP Apache + MariaDB + PHP + Perl:<https://www.apachefriends.org/pt_br/index.html>]** XAMPP é um pacote com os principais servidores de código aberto do mercado, incluindo FTP, banco de dados MySQL e Apache com suporte as linguagens PHP e Perl. [Wikipedia<https://pt.wikipedia.org/wiki/XAMPP>]
 * ****
 
 ## Exemplos de uso
