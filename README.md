@@ -209,7 +209,7 @@ Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto
 
 5. Clique em **Sobre**
 
-![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/5/5.PNG)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/5/5.png)
 
 6. A **Tela Sobre** irá aparecer
 
@@ -219,12 +219,19 @@ Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto
 ### Sair do _Software WON_
 
 1. Acesse o **Menu Superior**
+
 ![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/6/1.PNG)
+
 2. Clique em **Opções**
+
 ![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/6/2.PNG)
+
 3. Clique em **Sair**
-![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/6/3.PNG)
+
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/6/3.png)
+
 4. A **Tela de Confirmação - ATENÇÃO** irá aparecer
+
 ![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/6/4.PNG)
 
 ## Meta
