@@ -233,7 +233,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         // TODO add your handling code here:
         // exibe a caixa de diálogo
 
-        int sair = JOptionPane.showConfirmDialog(null, "Tem certeza que deseja sair?", " ⚠ ATENÇÃO ⚠ ", JOptionPane.YES_NO_OPTION);
+        int sair = JOptionPane.showConfirmDialog(null, "Tem certeza que deseja sair?", "ATENÇÃO", JOptionPane.YES_NO_OPTION);
         if (sair == JOptionPane.YES_OPTION) {
             System.exit(0);
         }

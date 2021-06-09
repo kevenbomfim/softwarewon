@@ -14,7 +14,8 @@ create table tbusuarios(
     usuario varchar(50) not null,
     fone varchar(15),
     login varchar(15) not null unique,
-    senha varchar(15) not null
+    senha varchar(15) not null,
+    perfil varchar (20) not null
 );
 
 insert into tbusuarios (iduser, usuario, fone, login, senha)
@@ -49,27 +50,7 @@ from tbos as O
 inner join tbclientes as C
 on (O.idcli = C.idcli);
 
--- adicionando campo na tabela
-alter table tbusuarios add column perfil varchar (20) not null;
-
-update tbusuarios set perfil = 'admin' where iduser=1;
-update tbusuarios set perfil = 'admin' where iduser=2;
-update tbusuarios set perfil = 'user' where iduser=3;
-
 -- a linha abaixo altera a tabela adicionando um campo em um adeterminada opsiçãoptimize
 alter table tbos add tipo varchar (15) not null after data_os;
 alter table tbos add situacao varchar (20) not null after data_os;
 
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> ce43d06b651e7d3fda74ff711900f4b68374c78c

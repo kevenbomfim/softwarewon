@@ -10,13 +10,13 @@ Oi! Sou o primeiro arquivo Markdown do **WON**. Se você quiser aprender sobre e
 
 O Sistema para Ordens de Serviços **WON - _Work Order Now_** é um software voltado para empresas que prestam assistência técnica de microcomputadores, notebooks e periféricos que tenham a necessidade de controlar ordens de serviços.
 
-O Software **WON** possui: 
+O _Software WON_ possui: 
 
 * Cadastro de Clientes
 * Emissão de OS
 * Emissão de Relatórios de Serviços
 
-O Software **WON** tem como restrições em seu código:
+O _Software WON_ tem como restrições em seu código:
 
 * Não pode existir nenhuma OS sem cliente vinculado
 * O sistema deverá gerar automaticamente data e hora na emissão da OS
@@ -29,7 +29,7 @@ Para acessar o sistema
 **Senha:** admin
 
 # Arquivos
-Nesse repositório estão presentes todos os arquivos necessários para a compilação do Software **WON** na sua máquina. 
+Nesse repositório estão presentes todos os arquivos necessários para a compilação do _Software WON_ na sua máquina. 
 
 **⚠ Vale ressaltar que os arquivos nesse repositório estão em constante atualização ⚠**
 
@@ -59,28 +59,99 @@ Além desses Softwares também são nescessários algumas bibliotecas de apoio.
 
 ## Exemplos de uso
 
-Nessa versão do projeto é necessário possuir todos os Softwares de apoio acima instalados em sua máquina.
+<!-- Nessa versão do projeto é necessário possuir todos os Softwares de Apoio acima instalados em sua máquina.
 Logo após instalados todos os softwares é nescessário criar o banco de dados em sua máquina para isso iremos utilizar o **MySQL WorkBench** e o arquivo **banco.sql** que se encontra na pasta **/prjwon/BD**.
 
-Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto.
+Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto. -->
 
-## Histórico de Lançamentos
+### Acessar o sistema
+
+1. **Execute** o software
+2. A **Tela de Login** irá aparecer
+3. Digite o seu **Usuário**
+4. Digite sua **Senha**
+5. Clique no botão **Login**
+6. Você será redirecionado para a **Tela Principal**
+
+### Cadastrar um novo cliente
+
+1. Faça **Login** no sistema
+<!-- Tentar Inserir uma imagem -->
+2. Acesse o **Menu superior**
+<!-- Tentar Inserir uma imagem -->
+3. Clique em **Cadastro**
+<!-- Tentar Inserir uma imagem -->
+4. Clique em **Cliente**
+<!-- Tentar Inserir uma imagem -->
+5. O **Formulário de Cadastro de Cliente** irá aparecer na sua tela
+<!-- Tentar Inserir uma imagem -->
+6. **Preencha** o formulário
+<!-- Tentar Inserir uma imagem -->
+7. Clique no botão **Adicionar**
+<!-- Tentar Inserir uma imagem -->
+
+### Cadastrar uma nova ordem de serviço
+
+1. Faça **Login** no sistema
+<!-- Tentar Inserir uma imagem -->
+2. Acesse o **Menu superior**
+<!-- Tentar Inserir uma imagem -->
+3. Clique em **Cadastro**
+<!-- Tentar Inserir uma imagem -->
+4. Clique em **Ordem de Serviço**
+<!-- Tentar Inserir uma imagem -->
+5. O **Formulário de Cadastro de Ordem de Serviço** irá aparecer na sua tela
+<!-- Tentar Inserir uma imagem -->
+6. **Preencha** o formulário
+<!-- Tentar Inserir uma imagem -->
+7. Clique no botão **Adicionar**
+<!-- Tentar Inserir uma imagem -->
+
+### Cadastrar um novo usuário
+
+1. Faça **Login** no sistema
+<!-- Tentar Inserir uma imagem -->
+2. Acesse o **Menu superior**
+<!-- Tentar Inserir uma imagem -->
+3. Clique em **Cadastro**
+<!-- Tentar Inserir uma imagem -->
+4. Clique em **Usuário**
+<!-- Tentar Inserir uma imagem -->
+5. O **Formulário de Cadastro de Usuário** irá aparecer na sua tela
+<!-- Tentar Inserir uma imagem -->
+6. **Preencha** o formulário
+<!-- Tentar Inserir uma imagem -->
+7. Clique no botão **Adicionar**
+<!-- Tentar Inserir uma imagem -->
+
+### Informações sobre o _Software WON_
+
+1. Faça **Login** no sistema
+<!-- Tentar Inserir uma imagem -->
+2. Acesse o **Menu superior**
+<!-- Tentar Inserir uma imagem -->
+3. Clique em **Ajuda**
+<!-- Tentar Inserir uma imagem -->
+4. Clique em **Sobre**
+<!-- Tentar Inserir uma imagem -->
+5. A **Tela Sobre** irá aparecer
+<!-- Tentar Inserir uma imagem -->
+
+
+### Sair do _Software WON_
+
+1. Acesse o **Menu Superior**
+<!-- Tentar Inserir uma imagem -->
+2. Clique em **Opções**
+<!-- Tentar Inserir uma imagem -->
+3. Clique em **Sair**
+<!-- Tentar Inserir uma imagem -->
+4. A **Tela de Confirmação - ATENÇÃO** irá aparecer
+<!-- Tentar Inserir uma imagem -->
 
 ## Meta
 
 ## Desenvolvedores(as)
-
-<!-- Apagar -->
-<!-- [<img src="" width=115 > <br> <sub> Gotardo Aurélio </sub>]() |
-| :---: |
-[<img src="" width=115 > <br> <sub> Kalleby Rodrigues </sub>]() |
-| :---: |
-[<img src="https://avatars.githubusercontent.com/u/72482960?v=4" width=115 > <br> <sub> Keven Bomfim </sub>](https://github.com/kevenbomfim/) |
-| :---: |
-[<img src="" width=115 > <br> <sub> Eduarda Resende </sub>]() |
-| :---: |
-[<img src="" width=115 > <br> <sub> Perla Oliveira </sub>]() |
-| :---: | -->
 
 [<img src="" width=115 > <br> <sub> Gotardo Aurélio </sub>]() | [<img src="https://avatars.githubusercontent.com/u/80918685?v=4" width=115 > <br> <sub> Kalleby Rodrigues </sub>](https://github.com/Kalleby-Rodrigues) | [<img src="https://avatars.githubusercontent.com/u/72482960?v=4" width=115 > <br> <sub> Keven Bomfim </sub>](https://github.com/kevenbomfim/) | [<img src="https://avatars.githubusercontent.com/u/75273692?v=4" width=115 > <br> <sub> Eduarda Resende </sub>](https://github.com/eduardaresend) | [<img src="https://avatars.githubusercontent.com/u/81035219?v=4" width=115 > <br> <sub> Perla Oliveira </sub>](https://github.com/Perlapjlo)
 :--------- | :------: | :-------: | :-------: | :-------:
