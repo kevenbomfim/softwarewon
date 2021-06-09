@@ -13,6 +13,19 @@ O Sistema para Ordens de Serviços **WON - _Work Order Now_** é um software vol
 O Software **WON** possui: 
 
 * Cadastro de Clientes
+* Emissão de OS
+* Emissão de Relatórios de Serviços
+
+O Software **WON** tem como restrições em seu código:
+
+* Não pode existir nenhuma OS sem cliente vinculado
+* O sistema deverá gerar automaticamente data e hora na emissão da OS
+* Somente o gestor pode ter acesso ao relatório de serviços
+
+##### Para acessar o sistema
+
+**User:** admin
+**Senha:** admin
 
 # Arquivos
 Nesse repositório estão presentes todos os arquivos necessários para a compilação do Software **WON** na sua máquina. 
