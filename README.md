@@ -71,7 +71,8 @@ Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto
 
 2. A **Tela de Login** irá aparecer
 
-![](https://imgur.com/DeLOcRy)
+<img src="https://imgur.com/DeLOcRy">
+<!--![](https://imgur.com/DeLOcRy)-->
 
 3. Digite o seu **Usuário**
 
