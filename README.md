@@ -143,7 +143,7 @@ Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto
 
 5. Clique em **Ordem de Serviço**
 
-![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/3/5.PNG)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/3/5.png)
 
 6. O **Formulário de Cadastro de Ordem de Serviço** irá aparecer na sua tela
 
@@ -176,7 +176,7 @@ Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto
 
 5. Clique em **Usuário**
 
-![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/4/5.PNG)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/4/5.png)
 
 6. O **Formulário de Cadastro de Usuário** irá aparecer na sua tela
 
