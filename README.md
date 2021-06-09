@@ -64,80 +64,94 @@ Logo após instalados todos os softwares é nescessário criar o banco de dados 
 
 Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto. -->
 
-### Acessar o sistema
+<!-- Passo 1 -->
+### Acessar o sistema<!-- Passo1-->
 
 1. **Execute** o software
 2. A **Tela de Login** irá aparecer
+![Tela de Login](https://ibb.co/rfdZ36D)
 3. Digite o seu **Usuário**
 4. Digite sua **Senha**
 5. Clique no botão **Login**
 6. Você será redirecionado para a **Tela Principal**
 
+<!-- Passo 2 -->
 ### Cadastrar um novo cliente
 
 1. Faça **Login** no sistema
 <!-- Tentar Inserir uma imagem -->
-2. Acesse o **Menu superior**
+2. Você será redirecionado para a **Tela Principal**
 <!-- Tentar Inserir uma imagem -->
-3. Clique em **Cadastro**
+3. Acesse o **Menu superior**
 <!-- Tentar Inserir uma imagem -->
-4. Clique em **Cliente**
+4. Clique em **Cadastro**
 <!-- Tentar Inserir uma imagem -->
-5. O **Formulário de Cadastro de Cliente** irá aparecer na sua tela
+5. Clique em **Cliente**
 <!-- Tentar Inserir uma imagem -->
-6. **Preencha** o formulário
+6. O **Formulário de Cadastro de Cliente** irá aparecer na sua tela
 <!-- Tentar Inserir uma imagem -->
-7. Clique no botão **Adicionar**
+7. **Preencha** o formulário
+<!-- Tentar Inserir uma imagem -->
+8. Clique no botão **Adicionar**
 <!-- Tentar Inserir uma imagem -->
 
+<!-- Passo 3 -->
 ### Cadastrar uma nova ordem de serviço
 
 1. Faça **Login** no sistema
 <!-- Tentar Inserir uma imagem -->
-2. Acesse o **Menu superior**
+2. Você será redirecionado para a **Tela Principal**
 <!-- Tentar Inserir uma imagem -->
-3. Clique em **Cadastro**
+3. Acesse o **Menu superior**
 <!-- Tentar Inserir uma imagem -->
-4. Clique em **Ordem de Serviço**
+4. Clique em **Cadastro**
 <!-- Tentar Inserir uma imagem -->
-5. O **Formulário de Cadastro de Ordem de Serviço** irá aparecer na sua tela
+5. Clique em **Ordem de Serviço**
 <!-- Tentar Inserir uma imagem -->
-6. **Preencha** o formulário
+6. O **Formulário de Cadastro de Ordem de Serviço** irá aparecer na sua tela
 <!-- Tentar Inserir uma imagem -->
-7. Clique no botão **Adicionar**
+7. **Preencha** o formulário
+<!-- Tentar Inserir uma imagem -->
+8. Clique no botão **Adicionar**
 <!-- Tentar Inserir uma imagem -->
 
+<!-- Passo 4 -->
 ### Cadastrar um novo usuário
 
 1. Faça **Login** no sistema
 <!-- Tentar Inserir uma imagem -->
-2. Acesse o **Menu superior**
+2. Você será redirecionado para a **Tela Principal**
 <!-- Tentar Inserir uma imagem -->
-3. Clique em **Cadastro**
+3. Acesse o **Menu superior**
 <!-- Tentar Inserir uma imagem -->
-4. Clique em **Usuário**
+4. Clique em **Cadastro**
 <!-- Tentar Inserir uma imagem -->
-5. O **Formulário de Cadastro de Usuário** irá aparecer na sua tela
+5. Clique em **Usuário**
 <!-- Tentar Inserir uma imagem -->
-6. **Preencha** o formulário
+6. O **Formulário de Cadastro de Usuário** irá aparecer na sua tela
 <!-- Tentar Inserir uma imagem -->
-7. Clique no botão **Adicionar**
+7. **Preencha** o formulário
+<!-- Tentar Inserir uma imagem -->
+8. Clique no botão **Adicionar**
 <!-- Tentar Inserir uma imagem -->
 
+<!-- Passo 5 -->
 ### Informações sobre o _Software WON_
 
 1. Faça **Login** no sistema
 <!-- Tentar Inserir uma imagem -->
-2. Acesse o **Menu superior**
+2. Você será redirecionado para a **Tela Principal**
 <!-- Tentar Inserir uma imagem -->
-3. Clique em **Ajuda**
+3. Acesse o **Menu superior**
 <!-- Tentar Inserir uma imagem -->
-4. Clique em **Sobre**
+4. Clique em **Ajuda**
 <!-- Tentar Inserir uma imagem -->
-5. A **Tela Sobre** irá aparecer
+5. Clique em **Sobre**
+<!-- Tentar Inserir uma imagem -->
+6. A **Tela Sobre** irá aparecer
 <!-- Tentar Inserir uma imagem -->
 
-
+<!-- Passo 6 -->
 ### Sair do _Software WON_
 
 1. Acesse o **Menu Superior**
