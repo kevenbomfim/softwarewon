@@ -17,37 +17,8 @@ create table tbusuarios(
     senha varchar(15) not null
 );
 
--- o comando abaixo descreve a tabela
-
-describe tbusuarios;
-
--- a linha abaixo insere dados na tabela (CRUD)
--- create -> insert
-
 insert into tbusuarios (iduser, usuario, fone, login, senha)
-values (1, 'José de Assis', '9999-9999', 'joseassis', '123456');
-
--- a linha abaixo exibe os dados da tabela (CRUD)
--- read -> select
-
-select * from tbusuarios;
-
-insert into tbusuarios (iduser, usuario, fone, login, senha)
-values (2, 'Administrador', '9999-9999', 'admin', 'admin');
-insert into tbusuarios (iduser, usuario, fone, login, senha)
-values (3, 'Bill Gates', '9999-9999', 'bill', '123456');
-
--- a linha abaixo modifica dados na tabela (CRUD)
--- update ->  update
-
-update tbusuarios set fone='8888-8888' where iduser = 2;
-
--- a linha abaixo apaga um registro da tabela (CRUD)
--- delete -> delete
-
-delete from tbusuarios where iduser = 3;
-
-select * from tbusuarios;
+values (1, 'Administrador', '9999-9999', 'admin', 'admin');
 
 create table tbclientes (
 	idcli int primary key auto_increment,
@@ -56,13 +27,6 @@ create table tbclientes (
     foneCli varchar(50) not null,
     emailCli varchar(50)
 );
-
-describe tbclientes;
-
-insert into tbclientes(nomeCli, endCli, foneCli, emailCli)
-values ('Linus Torvalds', 'Rua Tux, 2015', '9999-9999', 'linus@linux.com');
-
-select * from tbclientes;
 
 create table tbos(
 	os int primary key auto_increment,
@@ -76,10 +40,6 @@ create table tbos(
     foreign key (idcli) references tbclientes (idcli)
 );
 
-insert into tbos(equipamento, defeito, servico, tecnico, valor, idcli) values ('Notebook', 'Não liga', 'Troca da fonte', 'Zé', 110.80, 1);
-
--- select * from tbos;
-
 -- o código abaixo traz informações de duas tabelas
 
 select
@@ -88,16 +48,6 @@ C.nomeCli,foneCli
 from tbos as O
 inner join tbclientes as C
 on (O.idcli = C.idcli);
-
-select * from tbusuarios;
-
-insert into tbusuarios (iduser, usuario, fone, login, senha) values (3, 'Leadro Ramos', '9999-99990', 'leandro', '123');
-
-describe tbusuarios;
-
-describe tbclientes;
-
-select * from tbclientes;
 
 -- adicionando campo na tabela
 alter table tbusuarios add column perfil varchar (20) not null;
