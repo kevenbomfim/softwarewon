@@ -8,6 +8,11 @@
 
 Oi! Sou o primeiro arquivo Markdown do **WON**. Se você quiser aprender sobre esse software para criação de ordens de serviços, você pode me ler. 
 
+O Sistema para Ordens de Serviços **WON - _Work Order Now_** é um software voltado para empresas que prestam assistência técnica de microcomputadores, notebooks e periféricos que tenham a necessidade de controlar ordens de serviços.
+
+O Software **WON** possui: 
+                            * Cadastro de Clientes
+
 # Arquivos
 Nesse repositório estão presentes todos os arquivos necessários para a compilação do Software **WON** na sua máquina. 
 
