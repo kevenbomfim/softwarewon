@@ -65,18 +65,28 @@ Logo após instalados todos os softwares é nescessário criar o banco de dados 
 Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto. -->
 
 <!-- Passo 1 -->
-### Acessar o sistema<!-- Passo1-->
+### Acessar o sistema
 
 1. **Execute** o software
+
 2. A **Tela de Login** irá aparecer
+
 ![](https://i.ibb.co/ynKqzMb/2.png)
+
 3. Digite o seu **Usuário**
+
 ![](https://i.ibb.co/JRZnhpT/3.png)
+
 4. Digite sua **Senha**
+
 ![](https://i.ibb.co/y5jq72j/4.png)
+
 5. Clique no botão **Login**
+
 ![](https://i.ibb.co/G2pFQLW/5.png)
+
 6. Você será redirecionado para a **Tela Principal**
+
 ![](https://i.ibb.co/WxyGWmt/6.png)
 
 <!-- Passo 2 -->
