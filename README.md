@@ -69,15 +69,15 @@ Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto
 
 1. **Execute** o software
 2. A **Tela de Login** irá aparecer
-!(https://i.ibb.co/ynKqzMb/2.png)
+![](https://i.ibb.co/ynKqzMb/2.png)
 3. Digite o seu **Usuário**
-!(https://i.ibb.co/JRZnhpT/3.png)
+![](https://i.ibb.co/JRZnhpT/3.png)
 4. Digite sua **Senha**
-!(https://i.ibb.co/y5jq72j/4.png)
+![](https://i.ibb.co/y5jq72j/4.png)
 5. Clique no botão **Login**
-!(https://i.ibb.co/G2pFQLW/5.png)
+![](https://i.ibb.co/G2pFQLW/5.png)
 6. Você será redirecionado para a **Tela Principal**
-!(https://i.ibb.co/WxyGWmt/6.png)
+![](https://i.ibb.co/WxyGWmt/6.png)
 
 <!-- Passo 2 -->
 ### Cadastrar um novo cliente
