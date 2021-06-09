@@ -69,7 +69,9 @@ Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto
 
 1. **Execute** o software
 2. A **Tela de Login** irá aparecer
-![Tela de Login](https://ibb.co/rfdZ36D)
+
+![Tela de Login](https://i.ibb.co/BKngGZ0/Login.png)
+
 3. Digite o seu **Usuário**
 4. Digite sua **Senha**
 5. Clique no botão **Login**
