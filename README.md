@@ -110,7 +110,7 @@ Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto
 
 5. Clique em **Cliente**
 
-![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/2/5.PNG)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/2/5.png)
 
 6. O **Formulário de Cadastro de Cliente** irá aparecer na sua 
 
