@@ -71,111 +71,161 @@ Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto
 
 2. A **Tela de Login** irá aparecer
 
-![](https://i.ibb.co/ynKqzMb/2.png)
+![](https://imgur.com/DeLOcRy)
 
 3. Digite o seu **Usuário**
 
-![](https://i.ibb.co/JRZnhpT/3.png)
+![](https://imgur.com/DMQV6Lj)
 
 4. Digite sua **Senha**
 
-![](https://i.ibb.co/y5jq72j/4.png)
+![](https://imgur.com/oztXAiu)
 
 5. Clique no botão **Login**
 
-![](https://i.ibb.co/G2pFQLW/5.png)
+![](https://imgur.com/nK9g0qt)
 
 6. Você será redirecionado para a **Tela Principal**
 
-![](https://i.ibb.co/WxyGWmt/6.png)
+![](https://imgur.com/eaBcWNu)
 
 <!-- Passo 2 -->
 ### Cadastrar um novo cliente
 
 1. Faça **Login** no sistema
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/Hkb7MUl)
+
 2. Você será redirecionado para a **Tela Principal**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/0UcE0mZ)
+
 3. Acesse o **Menu superior**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/oNkJp7P)
+
 4. Clique em **Cadastro**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/1fubWS8)
+
 5. Clique em **Cliente**
-<!-- Tentar Inserir uma imagem -->
-6. O **Formulário de Cadastro de Cliente** irá aparecer na sua tela
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/ETcodwj)
+
+6. O **Formulário de Cadastro de Cliente** irá aparecer na sua 
+
+![](https://imgur.com/Gj5nlRW)
+
 7. **Preencha** o formulário
-<!-- Tentar Inserir uma imagem -->
+
 8. Clique no botão **Adicionar**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/6gJmPfD)
 
 <!-- Passo 3 -->
 ### Cadastrar uma nova ordem de serviço
 
 1. Faça **Login** no sistema
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/zvBMoQa)
+
 2. Você será redirecionado para a **Tela Principal**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/Ic5GZmm)
+
 3. Acesse o **Menu superior**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/UAbPBKZ)
+
 4. Clique em **Cadastro**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/mCvcnQY)
+
 5. Clique em **Ordem de Serviço**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/HqLw3jy)
+
 6. O **Formulário de Cadastro de Ordem de Serviço** irá aparecer na sua tela
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/0JiHSlG)
+
 7. **Preencha** o formulário
-<!-- Tentar Inserir uma imagem -->
+
 8. Clique no botão **Adicionar**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/qBlplak)
 
 <!-- Passo 4 -->
 ### Cadastrar um novo usuário
 
 1. Faça **Login** no sistema
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/mPEaIJI)
+
 2. Você será redirecionado para a **Tela Principal**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/hskpGr1)
+
 3. Acesse o **Menu superior**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/aOHlgZs)
+
 4. Clique em **Cadastro**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/HBVHxD4)
+
 5. Clique em **Usuário**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/SnM9cBz)
+
 6. O **Formulário de Cadastro de Usuário** irá aparecer na sua tela
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/wOgK2rU)
+
 7. **Preencha** o formulário
-<!-- Tentar Inserir uma imagem -->
+
 8. Clique no botão **Adicionar**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/m9obrM3)
 
 <!-- Passo 5 -->
 ### Informações sobre o _Software WON_
 
 1. Faça **Login** no sistema
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/yVIpfZC)
+
 2. Você será redirecionado para a **Tela Principal**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/Wfh8529)
+
 3. Acesse o **Menu superior**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/Zhn1ADE)
+
 4. Clique em **Ajuda**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/dSvKEKH)
+
 5. Clique em **Sobre**
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/cHIEm76)
+
 6. A **Tela Sobre** irá aparecer
-<!-- Tentar Inserir uma imagem -->
+
+![](https://imgur.com/kbp4kKd)
 
 <!-- Passo 6 -->
 ### Sair do _Software WON_
 
 1. Acesse o **Menu Superior**
-<!-- Tentar Inserir uma imagem -->
+![](https://imgur.com/AzcC8JR)
 2. Clique em **Opções**
-<!-- Tentar Inserir uma imagem -->
+![](https://imgur.com/u1zpjzF)
 3. Clique em **Sair**
-<!-- Tentar Inserir uma imagem -->
+![](https://imgur.com/mvDXHkU)
 4. A **Tela de Confirmação - ATENÇÃO** irá aparecer
-<!-- Tentar Inserir uma imagem -->
+![](https://imgur.com/rG1Bjym)
 
 ## Meta
 
