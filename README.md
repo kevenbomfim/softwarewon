@@ -71,161 +71,161 @@ Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto
 
 2. A **Tela de Login** irá aparecer
 
-![Tela de Login](https://github.com/kevenbomfim/softwarewon/blob/main/imgreadme/1/2.PNG)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/1/2.PNG)
 
 3. Digite o seu **Usuário**
 
-![](https://imgur.com/DMQV6Lj)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/1/3.PNG)
 
 4. Digite sua **Senha**
 
-![](https://imgur.com/oztXAiu)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/1/4.PNG)
 
 5. Clique no botão **Login**
 
-![](https://imgur.com/nK9g0qt)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/1/5.PNG)
 
 6. Você será redirecionado para a **Tela Principal**
 
-![](https://imgur.com/eaBcWNu)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/1/6.PNG)
 
 <!-- Passo 2 -->
 ### Cadastrar um novo cliente
 
 1. Faça **Login** no sistema
 
-![](https://imgur.com/Hkb7MUl)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/2/1.PNG)
 
 2. Você será redirecionado para a **Tela Principal**
 
-![](https://imgur.com/0UcE0mZ)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/2/2.PNG)
 
 3. Acesse o **Menu superior**
 
-![](https://imgur.com/oNkJp7P)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/2/3.PNG)
 
 4. Clique em **Cadastro**
 
-![](https://imgur.com/1fubWS8)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/2/4.PNG)
 
 5. Clique em **Cliente**
 
-![](https://imgur.com/ETcodwj)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/2/5.PNG)
 
 6. O **Formulário de Cadastro de Cliente** irá aparecer na sua 
 
-![](https://imgur.com/Gj5nlRW)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/2/6.PNG)
 
 7. **Preencha** o formulário
 
 8. Clique no botão **Adicionar**
 
-![](https://imgur.com/6gJmPfD)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/2/8.PNG)
 
 <!-- Passo 3 -->
 ### Cadastrar uma nova ordem de serviço
 
 1. Faça **Login** no sistema
 
-![](https://imgur.com/zvBMoQa)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/3/1.PNG)
 
 2. Você será redirecionado para a **Tela Principal**
 
-![](https://imgur.com/Ic5GZmm)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/3/2.PNG)
 
 3. Acesse o **Menu superior**
 
-![](https://imgur.com/UAbPBKZ)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/3/3.PNG)
 
 4. Clique em **Cadastro**
 
-![](https://imgur.com/mCvcnQY)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/3/4.PNG)
 
 5. Clique em **Ordem de Serviço**
 
-![](https://imgur.com/HqLw3jy)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/3/5.PNG)
 
 6. O **Formulário de Cadastro de Ordem de Serviço** irá aparecer na sua tela
 
-![](https://imgur.com/0JiHSlG)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/3/6.PNG)
 
 7. **Preencha** o formulário
 
 8. Clique no botão **Adicionar**
 
-![](https://imgur.com/qBlplak)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/3/8.PNG)
 
 <!-- Passo 4 -->
 ### Cadastrar um novo usuário
 
 1. Faça **Login** no sistema
 
-![](https://imgur.com/mPEaIJI)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/4/1.PNG)
 
 2. Você será redirecionado para a **Tela Principal**
 
-![](https://imgur.com/hskpGr1)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/4/2.PNG)
 
 3. Acesse o **Menu superior**
 
-![](https://imgur.com/aOHlgZs)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/4/3.PNG)
 
 4. Clique em **Cadastro**
 
-![](https://imgur.com/HBVHxD4)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/4/4.PNG)
 
 5. Clique em **Usuário**
 
-![](https://imgur.com/SnM9cBz)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/4/5.PNG)
 
 6. O **Formulário de Cadastro de Usuário** irá aparecer na sua tela
 
-![](https://imgur.com/wOgK2rU)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/4/6.PNG)
 
 7. **Preencha** o formulário
 
 8. Clique no botão **Adicionar**
 
-![](https://imgur.com/m9obrM3)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/4/8.PNG)
 
 <!-- Passo 5 -->
 ### Informações sobre o _Software WON_
 
 1. Faça **Login** no sistema
 
-![](https://imgur.com/yVIpfZC)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/5/1.PNG)
 
 2. Você será redirecionado para a **Tela Principal**
 
-![](https://imgur.com/Wfh8529)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/5/2.PNG)
 
 3. Acesse o **Menu superior**
 
-![](https://imgur.com/Zhn1ADE)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/5/3.PNG)
 
 4. Clique em **Ajuda**
 
-![](https://imgur.com/dSvKEKH)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/5/4.PNG)
 
 5. Clique em **Sobre**
 
-![](https://imgur.com/cHIEm76)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/5/5.PNG)
 
 6. A **Tela Sobre** irá aparecer
 
-![](https://imgur.com/kbp4kKd)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/5/6.PNG)
 
 <!-- Passo 6 -->
 ### Sair do _Software WON_
 
 1. Acesse o **Menu Superior**
-![](https://imgur.com/AzcC8JR)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/6/1.PNG)
 2. Clique em **Opções**
-![](https://imgur.com/u1zpjzF)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/6/2.PNG)
 3. Clique em **Sair**
-![](https://imgur.com/mvDXHkU)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/6/3.PNG)
 4. A **Tela de Confirmação - ATENÇÃO** irá aparecer
-![](https://imgur.com/rG1Bjym)
+![](https://github.com/kevenbomfim/softwarewon/blob/main/prjwon/readme/imgreadme/6/4.PNG)
 
 ## Meta
 
