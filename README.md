@@ -59,6 +59,8 @@ Além desses Softwares também são nescessários algumas bibliotecas de apoio.
 
 * **[FinalAngelsAndDemons](https://sourceforge.net/projects/finalangelsanddemons/)**
 
+* **[iReport Designer (v5.6.0) _The Report Development Tool for JasperReports and JasperReports Server_:](https://community.jaspersoft.com/project/ireport-designer/releases)** iReport é o designer de relatórios de código aberto gratuito para JasperReports e JasperReports Server. Crie layouts muito sofisticados contendo gráficos, imagens, sub-relatórios, crosstabs e muito mais. Acesse seus dados por meio de JDBC, TableModels, JavaBeans, XML, Hibernate, CSV e fontes personalizadas. Em seguida, publique seus relatórios como PDF, RTF, XML, XLS, CSV, HTML, XHTML, texto, DOCX ou OpenOffice.
+
 ## Conheça o nosso Software
 
 ## Exemplos de uso
