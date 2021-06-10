@@ -31,7 +31,7 @@ Para acessar o sistema
 # Arquivos
 Nesse repositório estão presentes todos os arquivos necessários para a compilação do _Software WON_ na sua máquina. 
 
-**⚠ Vale ressaltar que os arquivos nesse repositório estão em constante atualização ⚠**
+<!-- **⚠ Vale ressaltar que os arquivos nesse repositório estão em constante atualização ⚠** -->
 
 * **/prjwon**
 
@@ -53,22 +53,17 @@ Atualmente para a utilização do _Software WON_ é nescessário possui em sua m
 
 * **[Java SE Development Kit 8u152:](https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html)** O Java SE é uma ferramenta de desenvolvimento para a plataforma Java. Ela contém todo o ambiente necessário para a criação e execução de aplicações Java, incluindo a máquina virtual Java, o compilador Java, as APIs do Java e outras ferramentas utilitárias para uma melhor funcionalidade. [Wikipédia](https://pt.wikipedia.org/wiki/Java_Platform,_Standard_Edition)
 
+* **[iReport Designer (v5.6.0) _The Report Development Tool for JasperReports and JasperReports Server_:](https://community.jaspersoft.com/project/ireport-designer/releases)** iReport é o designer de relatórios de código aberto gratuito para JasperReports e JasperReports Server. Crie layouts muito sofisticados contendo gráficos, imagens, sub-relatórios, crosstabs e muito mais. Acesse seus dados por meio de JDBC, TableModels, JavaBeans, XML, Hibernate, CSV e fontes personalizadas. Em seguida, publique seus relatórios como PDF, RTF, XML, XLS, CSV, HTML, XHTML, texto, DOCX ou OpenOffice. [Jaspersoft Community](https://community.jaspersoft.com/project/ireport-designer)
+
 Além desses Softwares também são nescessários algumas bibliotecas de apoio.
 
 * **[MySQL Connector Java _(versão mais atualizada)_:](https://dev.mysql.com/downloads/connector/j/)** MySQL Connector / ODBC (às vezes chamado apenas de Connector / ODBC ou MyODBC) é um driver para se conectar a um servidor de banco de dados MySQL por meio da interface de programa de aplicativo (API) Open Database Connectivity (ODBC), que é o meio padrão de conexão com qualquer banco de dados. [TechTarget | SearchOracle](https://searchoracle.techtarget.com/definition/MySQL-Connector-ODBC-Connector-ODBC-or-MyODBC)
 
 * **[FinalAngelsAndDemons](https://sourceforge.net/projects/finalangelsanddemons/)**
 
-* **[iReport Designer (v5.6.0) _The Report Development Tool for JasperReports and JasperReports Server_:](https://community.jaspersoft.com/project/ireport-designer/releases)** iReport é o designer de relatórios de código aberto gratuito para JasperReports e JasperReports Server. Crie layouts muito sofisticados contendo gráficos, imagens, sub-relatórios, crosstabs e muito mais. Acesse seus dados por meio de JDBC, TableModels, JavaBeans, XML, Hibernate, CSV e fontes personalizadas. Em seguida, publique seus relatórios como PDF, RTF, XML, XLS, CSV, HTML, XHTML, texto, DOCX ou OpenOffice. [Jaspersoft Community](https://community.jaspersoft.com/project/ireport-designer)
-
 ## Conheça o nosso Software
 
 ## Exemplos de uso
-
-<!-- Nessa versão do projeto é necessário possuir todos os Softwares de Apoio acima instalados em sua máquina.
-Logo após instalados todos os softwares é nescessário criar o banco de dados em sua máquina para isso iremos utilizar o **MySQL WorkBench** e o arquivo **banco.sql** que se encontra na pasta **/prjwon/BD**.
-
-Para conectar ao banco basta adicionar o driver **MySQL Connector J** ao projeto. -->
 
 <!-- Passo 1 -->
 ### Acessar o sistema
