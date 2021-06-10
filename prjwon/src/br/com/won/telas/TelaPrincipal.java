@@ -10,7 +10,7 @@ import java.text.DateFormat;
 import java.util.Date;
 import javax.swing.JOptionPane;
 import java.sql.*;
-/**import net.sf.jasperreports.engine.JasperFillManager;
+import net.sf.jasperreports.engine.JasperFillManager;
 import net.sf.jasperreports.engine.JasperPrint;
 import net.sf.jasperreports.view.JasperViewer;
 
@@ -212,7 +212,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         if (confirma == JOptionPane.YES_OPTION) {
             //imprimindo . . .
             try {
-                JasperPrint print = JasperFillManager.fillReport("C:/reports/servicos.jasper", null, conexao);
+                JasperPrint print = JasperFillManager.fillReport("C:/Users/Keven Bomfim/Documents/NetBeansProjects/prjwon/reports/Servicos.jasper", null, conexao);
                 //exibe o rel
                 JasperViewer.viewReport(print, false);
             } catch (Exception e) {
@@ -263,7 +263,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         if (confirma == JOptionPane.YES_OPTION) {
             //imprimindo . . .
             try {
-                JasperPrint print = JasperFillManager.fillReport("C:/reports/clientes.jasper", null, conexao);
+                JasperPrint print = JasperFillManager.fillReport("C:/Users/Keven Bomfim/Documents/NetBeansProjects/prjwon/reports/Clientes.jasper", null, conexao);
                 //exibe o rel
                 JasperViewer.viewReport(print, false);
             } catch (Exception e) {

@@ -52,3 +52,11 @@ from tbos as O
 inner join tbclientes as C
 on (O.idcli = C.idcli);
 
+-- o código abaixo traz informações de duas tabelas
+
+select
+OSER.os, data_os, tipo, situacao, equipamento, valor,
+CLI.nomecli, fonecli
+from tbos as OSER
+inner join tbclientes as CLI
+on (CLI.idcli = OSER.idcli);

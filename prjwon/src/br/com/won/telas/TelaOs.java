@@ -11,9 +11,9 @@ import java.text.DateFormat;
 import java.util.HashMap;
 import javax.swing.JOptionPane;
 import net.proteanit.sql.DbUtils;
-//import net.sf.jasperreports.engine.JasperFillManager;
-//import net.sf.jasperreports.engine.JasperPrint;
-//import net.sf.jasperreports.view.JasperViewer;
+import net.sf.jasperreports.engine.JasperFillManager;
+import net.sf.jasperreports.engine.JasperPrint;
+import net.sf.jasperreports.view.JasperViewer;
 
 /**
  *
@@ -218,7 +218,7 @@ public class TelaOs extends javax.swing.JInternalFrame {
                 HashMap filtro = new HashMap();
                 filtro.put("os", Integer.parseInt(txtOs.getText()));
                 
-                JasperPrint print = JasperFillManager.fillReport("C:/reports/os.jasper", filtro, conexao);
+                JasperPrint print = JasperFillManager.fillReport("C:/Users/Keven Bomfim/Documents/NetBeansProjects/prjwon/reports/OS.jasper", filtro, conexao);
                 //exibe o rel
                 JasperViewer.viewReport(print, false);
             } catch (Exception e) {
