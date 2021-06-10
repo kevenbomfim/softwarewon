@@ -55,7 +55,11 @@ Atualmente para a utilização do _Software WON_ é nescessário possui em sua m
 
 Além desses Softwares também são nescessários algumas bibliotecas de apoio.
 
-* **[MySQL Connector Java _(versão mais atualizada)_:]()** MySQL Connector / ODBC (às vezes chamado apenas de Connector / ODBC ou MyODBC) é um driver para se conectar a um servidor de banco de dados MySQL por meio da interface de programa de aplicativo (API) Open Database Connectivity (ODBC), que é o meio padrão de conexão com qualquer banco de dados. [TechTarget | SearchOracle](https://searchoracle.techtarget.com/definition/MySQL-Connector-ODBC-Connector-ODBC-or-MyODBC) 
+* **[MySQL Connector Java _(versão mais atualizada)_:](https://dev.mysql.com/downloads/connector/j/)** MySQL Connector / ODBC (às vezes chamado apenas de Connector / ODBC ou MyODBC) é um driver para se conectar a um servidor de banco de dados MySQL por meio da interface de programa de aplicativo (API) Open Database Connectivity (ODBC), que é o meio padrão de conexão com qualquer banco de dados. [TechTarget | SearchOracle](https://searchoracle.techtarget.com/definition/MySQL-Connector-ODBC-Connector-ODBC-or-MyODBC)
+
+* **[FinalAngelsAndDemons](https://sourceforge.net/projects/finalangelsanddemons/)**
+
+## Conheça o nosso Software
 
 ## Exemplos de uso
 

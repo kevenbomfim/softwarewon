@@ -232,7 +232,7 @@ public class TelaCliente extends javax.swing.JInternalFrame {
 
         btnAlterar.setFont(new java.awt.Font("Arial", 0, 12)); // NOI18N
         btnAlterar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/br/com/won/icones/update.png"))); // NOI18N
-        btnAlterar.setToolTipText("Consultar");
+        btnAlterar.setToolTipText("Alterar");
         btnAlterar.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnAlterar.setMaximumSize(new java.awt.Dimension(80, 80));
         btnAlterar.setMinimumSize(new java.awt.Dimension(80, 80));
@@ -244,7 +244,7 @@ public class TelaCliente extends javax.swing.JInternalFrame {
 
         btnRemover.setFont(new java.awt.Font("Arial", 0, 12)); // NOI18N
         btnRemover.setIcon(new javax.swing.ImageIcon(getClass().getResource("/br/com/won/icones/delete.png"))); // NOI18N
-        btnRemover.setToolTipText("Alterar");
+        btnRemover.setToolTipText("Remover");
         btnRemover.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnRemover.setMaximumSize(new java.awt.Dimension(80, 80));
         btnRemover.setMinimumSize(new java.awt.Dimension(80, 80));

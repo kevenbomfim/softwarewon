@@ -32,6 +32,8 @@ create table tbclientes (
 create table tbos(
 	os int primary key auto_increment,
     data_os timestamp default current_timestamp,
+    tipo varchar (15) not null,
+    situacao varchar (20) not null,
     equipamento varchar(150) not null,
     defeito varchar(150) not null,
     servico varchar(150),
@@ -49,8 +51,4 @@ C.nomeCli,foneCli
 from tbos as O
 inner join tbclientes as C
 on (O.idcli = C.idcli);
-
--- a linha abaixo altera a tabela adicionando um campo em um adeterminada opsiçãoptimize
-alter table tbos add tipo varchar (15) not null after data_os;
-alter table tbos add situacao varchar (20) not null after data_os;
 

@@ -20,7 +20,7 @@ import net.proteanit.sql.DbUtils;
  * @author Gotardo Aurélio
  */
 public class TelaOs extends javax.swing.JInternalFrame {
-
+    
     Connection conexao = null;
     PreparedStatement pst = null;
     ResultSet rs = null;
@@ -35,7 +35,7 @@ public class TelaOs extends javax.swing.JInternalFrame {
         initComponents();
         conexao = ModuloConexao.conector();
     }
-
+    
     private void pesquisar_cliente() {
         String sql = "select idcli as Id, nomecli as Nome, fonecli as Fone from tbclientes where nomeCli like ?";
         try {
@@ -47,7 +47,7 @@ public class TelaOs extends javax.swing.JInternalFrame {
             JOptionPane.showMessageDialog(null, e);
         }
     }
-
+    
     private void setar_campos() {
         int setar = tblClientes.getSelectedRow();
         txtCliId.setText(tblClientes.getModel().getValueAt(setar, 0).toString());
@@ -74,14 +74,14 @@ public class TelaOs extends javax.swing.JInternalFrame {
                 int adicionado = pst.executeUpdate();
                 if (adicionado > 0) {
                     JOptionPane.showMessageDialog(null, "OS emitida com sucesso.");
-
+                    
                     txtCliId.setText(null);
                     txtOsEquip.setText(null);
                     txtOsDef.setText(null);
                     txtOsServ.setText(null);
                     txtOsTec.setText(null);
                     txtOsValor.setText(null);
-
+                    
                 }
             }
         } catch (Exception e) {
@@ -100,7 +100,7 @@ public class TelaOs extends javax.swing.JInternalFrame {
             if (rs.next()) {
                 txtOs.setText(rs.getString(1));
                 txtData.setText(rs.getString(2));
-
+                //setando os radio buttons
                 String rbtTipo = rs.getString(3);
                 if (rbtTipo.equals("OS")) {
                     rbtOs.setSelected(true);
@@ -109,7 +109,6 @@ public class TelaOs extends javax.swing.JInternalFrame {
                     rbtOrc.setSelected(true);
                     tipo = "Orçamento";
                 }
-
                 cboOsSit.setSelectedItem(rs.getString(4));
                 txtOsEquip.setText(rs.getString(5));
                 txtOsDef.setText(rs.getString(6));
@@ -117,16 +116,14 @@ public class TelaOs extends javax.swing.JInternalFrame {
                 txtOsTec.setText(rs.getString(8));
                 txtOsValor.setText(rs.getString(9));
                 txtCliId.setText(rs.getString(10));
-
-                //detalhes
+                
                 btnOsAdicionar.setEnabled(false);
                 txtCliPesquisar.setEnabled(false);
                 tblClientes.setVisible(false);
-
             } else {
                 JOptionPane.showMessageDialog(null, "OS não cadastrada.");
             }
-        } catch (com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException e) {
+        } catch (java.sql.SQLSyntaxErrorException e) {
             JOptionPane.showMessageDialog(null, "OS Inválida.");
             //System.out.println(e);
         } catch (Exception e2) {
@@ -155,7 +152,7 @@ public class TelaOs extends javax.swing.JInternalFrame {
                 int adicionado = pst.executeUpdate();
                 if (adicionado > 0) {
                     JOptionPane.showMessageDialog(null, "OS alterada com sucesso.");
-
+                    
                     txtOs.setText(null);
                     txtData.setText(null);
                     txtCliId.setText(null);
@@ -169,7 +166,7 @@ public class TelaOs extends javax.swing.JInternalFrame {
                     btnOsAdicionar.setEnabled(true);
                     txtCliPesquisar.setEnabled(true);
                     tblClientes.setVisible(true);
-
+                    
                 }
             }
         } catch (Exception e) {
@@ -188,7 +185,7 @@ public class TelaOs extends javax.swing.JInternalFrame {
                 int apagado = pst.executeUpdate();
                 if (apagado > 0) {
                     JOptionPane.showMessageDialog(null, "OS excluída com sucesso.");
-
+                    
                     txtOs.setText(null);
                     txtData.setText(null);
                     txtCliId.setText(null);
@@ -202,7 +199,7 @@ public class TelaOs extends javax.swing.JInternalFrame {
                     btnOsAdicionar.setEnabled(true);
                     txtCliPesquisar.setEnabled(true);
                     tblClientes.setVisible(true);
-
+                    
                 }
             } catch (Exception e) {
                 JOptionPane.showMessageDialog(null, e);
@@ -211,9 +208,8 @@ public class TelaOs extends javax.swing.JInternalFrame {
     }
 
     //imprimir os
-    
-        private void imprimir_os(){
-    //imprimindo os
+    private void imprimir_os() {
+        //imprimindo os
         int confirma = JOptionPane.showConfirmDialog(null, "Confirma a impressão desta OS?", "ATENÇÃO", JOptionPane.YES_NO_OPTION);
         if (confirma == JOptionPane.YES_OPTION) {
             //imprimindo . . .
@@ -221,7 +217,7 @@ public class TelaOs extends javax.swing.JInternalFrame {
                 //filtro
                 HashMap filtro = new HashMap();
                 filtro.put("os", Integer.parseInt(txtOs.getText()));
-
+                
                 JasperPrint print = JasperFillManager.fillReport("C:/reports/os.jasper", filtro, conexao);
                 //exibe o rel
                 JasperViewer.viewReport(print, false);
@@ -230,7 +226,7 @@ public class TelaOs extends javax.swing.JInternalFrame {
             }
         }
     }
-
+    
     private void formWindowActivated(java.awt.event.WindowEvent evt) {
         // TODO add your handling code here:
         // as linhas abaixo substituem a label data ldlData pela data atual do sist ao inicializar o form
@@ -238,7 +234,7 @@ public class TelaOs extends javax.swing.JInternalFrame {
         DateFormat formatador = DateFormat.getDateInstance(DateFormat.SHORT);
         lblData.setText(formatador.format(data));
     }
-
+    
     private void menOpcSaiActionPerformed(java.awt.event.ActionEvent evt) {
         // TODO add your handling code here:
         // exibe a caixa de diálogo
@@ -672,7 +668,6 @@ public class TelaOs extends javax.swing.JInternalFrame {
     private void tblClientesMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_tblClientesMouseClicked
         // TODO add your handling code here:
         //setar campos
-
         setar_campos();
     }//GEN-LAST:event_tblClientesMouseClicked
 
