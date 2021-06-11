@@ -12,7 +12,7 @@ use won;
 create table tbusuarios(
 	iduser int primary key, 
     usuario varchar(50) not null,
-    fone varchar(15),
+    fone varchar(20),
     login varchar(15) not null unique,
     senha varchar(15) not null,
     perfil varchar (20) not null
@@ -23,10 +23,10 @@ values (1, 'Administrador', '9999-9999', 'admin', 'admin');
 
 create table tbclientes (
 	idcli int primary key auto_increment,
-    nomeCli varchar(50) not null,
+    nomeCli varchar(100) not null,
     endCli varchar(100),
     foneCli varchar(50) not null,
-    emailCli varchar(50)
+    emailCli varchar(100)
 );
 
 create table tbos(
@@ -34,9 +34,9 @@ create table tbos(
     data_os timestamp default current_timestamp,
     tipo varchar (15) not null,
     situacao varchar (20) not null,
-    equipamento varchar(150) not null,
-    defeito varchar(150) not null,
-    servico varchar(150),
+    equipamento varchar(500) not null,
+    defeito varchar(500) not null,
+    servico varchar(500),
     tecnico varchar(30),
     valor decimal(10,2),
     idcli int not null,
