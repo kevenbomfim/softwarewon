@@ -757,4 +757,14 @@ public class TelaOs extends javax.swing.JInternalFrame {
     private javax.swing.JTextField txtOsTec;
     private javax.swing.JTextField txtOsValor;
     // End of variables declaration//GEN-END:variables
+
+    private static class lblData {
+
+        private static void setText(String format) {
+            throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        }
+
+        public lblData() {
+        }
+    }
 }
